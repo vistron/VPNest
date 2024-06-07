@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "VP Nest",
-  description: "Housewarming for VPNest"
+  description: "Housewarming Ceremony"
 };
 
 export default function RootLayout({
